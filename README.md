@@ -1,4 +1,4 @@
-# 🤖 Puji Clone Chatbot
+# 🤖 Puji Clone Chatbot  [  🌐Demo](https://puji-chatbot.streamlit.app/)
 
 A conversational AI chatbot built using **Streamlit**, **Google Gemini API**, and **FAISS** for intelligent response generation. "Puji" is designed to behave like a friendly AI/ML/DL instructor who answers your questions conversationally.
 
